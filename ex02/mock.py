@@ -1,0 +1,1 @@
+mock_data = {'temperature': 18, 'condition': 'cloudy'}
